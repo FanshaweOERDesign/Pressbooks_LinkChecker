@@ -7,3 +7,5 @@ Note that this tool is customized to be used with Pressbooks - it will not crawl
 
 Any potential problems are displayed in a list that can be exported to a .csv file. Clicking on any row of the list will display a popup containing more detailed info about the error received.
 
+## Dependencies
+- [JSoup](https://jsoup.org)
